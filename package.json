@@ -1,0 +1,27 @@
+{
+  "name": "discordcaptcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexSimpler/discordcaptcha.git"
+  },
+  "author": "AlexSimpler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexSimpler/discordcaptcha/issues"
+  },
+  "homepage": "https://github.com/AlexSimpler/discordcaptcha#readme",
+  "dependencies": {
+    "captchapng2": "^1.0.3",
+    "crypto": "^1.0.1",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "jimp": "^0.9.3",
+    "nodemon": "^2.0.2"
+  }
+}
