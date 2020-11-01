@@ -7,8 +7,7 @@ Don't forget to add a `.env` file and add your discord bot token there in the fo
 ```bash
 TOKEN=your_token_here
 ```
-You will also have to add the verified role id inside the `config.json` file.
-
+You will also have to add the verified role id inside the `config.json` file, you can get the role id by doing: `\@role_name`.
 To then launch it, you can just do `node server.js`.
 
 ## Copyright
